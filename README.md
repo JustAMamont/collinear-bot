@@ -1,4 +1,4 @@
-# lead-lag
+# cointegration-bot
 
 Cointegration scanner & paper trader for crypto futures (Bybit).
 
