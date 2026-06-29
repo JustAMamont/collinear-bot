@@ -1,4 +1,4 @@
-# cointegration-bot
+# cointegration-bot (experimental)
 
 Cointegration scanner & paper trader for crypto futures (Bybit).
 
